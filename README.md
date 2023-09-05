@@ -1,3 +1,11 @@
+## Signature Mint Drop with Thirdweb SDK   
+
+Signature based minting, which allows you to create on chain or off chain conditions in order to generate a signature and mint an NFT. We will create a quiz smart contract that we will verify in order for a wallet to mint our NFT.   
+
+## Demo https://warlocks-nftquiz.netlify.app   
+
+Netlify is the modern web development platform for Enterprises to realize the full potential of a scalable, customizable web architecture.   
+
 ## Getting Started
 
 Create a project using this example:
